@@ -7,6 +7,7 @@ EQO: Cannabrain exists to explain **mechanisms, uncertainty, and risk** in canna
 > **Scope notice**
 > This repository is for education and research translation only. It does **not** provide medical advice, diagnosis, treatment plans, dosing guidance, or product recommendations.
 
+https://chatgpt.com/g/g-6926396a69288191a7a6ef17b33a355e-eqo-cannabrain
 ---
 
 ## Table of Contents
